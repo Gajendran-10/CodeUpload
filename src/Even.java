@@ -14,6 +14,8 @@ public class Even {
 	 else {
 		 System.out.println("Entered Number "+n+" ïs odd"); 
 	 }
+	 
+	 System.out.println("UPdated statement")
 	 s.close();
  }
 }
