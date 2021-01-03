@@ -16,6 +16,7 @@ public class Even {
 	 }
 	 
 	 System.out.println("UPdated statement")
+	 System.out.println("NewUpdate")
 	 s.close();
  }
 }
