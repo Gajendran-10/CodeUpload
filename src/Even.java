@@ -15,8 +15,8 @@ public class Even {
 		 System.out.println("Entered Number "+n+" ïs odd"); 
 	 }
 	 
-System.out.println("Summa");
-	 System.out.println("UPdated statement")
-	 s.close();
+System.out.println("Test");
+	 System.out.println("NewStatement")
+	 System.out.println("oldRep Statement")
  }
 }
